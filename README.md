@@ -1,25 +1,28 @@
-# Grind_Pal
+# Grind Pal
 This project seeks to build an Android tool to assist MMORPG players (specifically GMS and its variants) with tracking their grinding gains and efficiency on a per map basis.
 
-Supported languages: English (more to be added if there is sufficient demand)
+Supported languages: English (Chinese to be added in the future)
 
-Target Android version (i.e. tested to run on): Android 10.0 (Q) - API Level 29 Revision 4
-Compiled Android Version: Android 10.0 (Q) - API Level 29 Revision 4
+Target Android version (i.e. tested to run on): Android 11.0 (R) - API Level 30 Revision 3
+  - Roughly 17.73% of all Android users, as of 13th Oct 2021
+  - API Level 30 or higher is mandated by Google Play store requirements, as of 13th Oct 2021
+Compiled Android Version: Android 11.0 (R) - API Level 30 Revision 3
+  - To follow the target API level
 Minimum Android version (i.e. last supported version): Android 7.0 (Nougat) - API Level 24 Revision 2
-  - Supports >73% of all Android users, as of time of writing (2nd May 2020)
+  - Supports >91% of all Android users, as of 13th Oct 2021
  
-Target game (intended variant): KastiaMS (Works with any MapleStory servers, in principle)
+Target game: MapleStory
 
-Written in: Kotlin
+Written in: Kotlin (1.5.31)
 
 Key features:
   1) Calculates NX & Meso rates (EXP mode to be added if there is sufficient demand)
   2) Comes with in-built timer
-  3) Organised by map and channel (KastiaMS has buffed channels)
+  3) Organised by map and channel (e.g. RMZ-like MapleStory private servers has buffed channels)
   4) Allows input of notable drops as well as any other notes for each instance (not calculated/scaled)
   5) Best maps/instances shown on the main screen
   6) Full list of prior instances are sortable
-  7) Data stored on phone (cloud service to be explored if there is sufficient demand)
+  7) Data stored on phone
 
 Method of use:
   - Tap on any instance on the main screen to view its details.
@@ -32,4 +35,4 @@ Method of use:
   - Choose to Save or Discard the session's data
 
 README Created: 11:56AM 2nd May 2020 +8GMT
-Last editted: 11:56AM 2nd May 2020 +8GMT
+Last editted: 1:56AM 13th Oct 2021 +8GMT
