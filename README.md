@@ -2,6 +2,11 @@
 This project seeks to build an Android tool to assist MMORPG players (specifically GMS and its variants) with tracking their grinding gains and efficiency on a per map basis.
 
 
+### Status  
+Developmental Progress: ![0%](https://progress-bar.dev/0)\
+Current Status: **HALTED**
+
+
 ### Language
 Currently supported languages:
   - English
@@ -56,4 +61,4 @@ Languages to support:
 Written in: Kotlin (1.5.31)  
 
 README created: 11:56AM 2nd May 2020 +8GMT  
-Last edited: 1:56AM 13th Oct 2021 +8GMT  
+Last edited: 5:15AM 6th Jan 2022 +8GMT  
