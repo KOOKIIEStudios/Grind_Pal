@@ -1,4 +1,4 @@
-package com.example.grindpal
+package com.kookiie.grindpal
 
 import org.junit.Test
 

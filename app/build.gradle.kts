@@ -4,15 +4,15 @@ plugins {
 }
 
 android {
-    namespace = "com.example.grindpal"
+    namespace = "com.kookiie.grindpal"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.grindpal"
+        applicationId = "com.kookiie.grindpal"
         minSdk = 24
         targetSdk = 34
-        versionCode = 1
-        versionName = "1.1"
+        versionCode = 2
+        versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {

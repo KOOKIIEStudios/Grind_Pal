@@ -1,4 +1,4 @@
-package com.example.grindpal.ui.theme
+package com.kookiie.grindpal.ui.theme
 
 import android.app.Activity
 import android.os.Build
